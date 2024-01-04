@@ -1,7 +1,8 @@
 repo_name: lrdshaper/psplibraries
 report_id: fd5be48a572a05daabbf9cead9266014
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-09T15:03:36+00:00'
+timestamp: '2024-01-04T14:56:05+00:00'
 requested_by: carstene1ns
 provider: github
 branch: master
@@ -15,6 +16,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Java Build Tools
   image_url: https://img.stackshare.io/service/2424/0UlUI_y1_400x400.jpg
+  detection_source_url: https://github.com/lrdshaper/psplibraries
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -24,6 +26,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/lrdshaper/psplibraries
   detection_source: Repo Metadata
 - name: Shell
   description: A shell is a text-based terminal, used for manipulating programs and
@@ -34,4 +37,5 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/lrdshaper/psplibraries
   detection_source: Repo Metadata
